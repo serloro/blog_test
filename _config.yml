@@ -1,0 +1,76 @@
+# ----------------------------------------
+# Información básica del sitio
+# ----------------------------------------
+title: "Mi Blog"
+description: "Un blog sobre desarrollo web, software y tecnología"
+url: "https://serloro.github.io"
+baseurl: ""
+
+# ----------------------------------------
+# Datos del autor
+# ----------------------------------------
+author:
+  name: "serloro"
+  email: "tu@email.com"
+  github: "https://github.com/serloro"
+  twitter: "@serloro"
+
+# ----------------------------------------
+# Tema y apariencia
+# ----------------------------------------
+theme: jekyll-theme-cayman
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: "/page:num"
+
+# ----------------------------------------
+# Plugins
+# ----------------------------------------
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-assets
+  - jekyll-paginate
+
+# ----------------------------------------
+# Excluir del build
+# ----------------------------------------
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+# ----------------------------------------
+# Configuración del feed
+# ----------------------------------------
+feed:
+  path: rss.xml
+
+# ----------------------------------------
+# SEO tags
+# ----------------------------------------
+seo:
+  type: Blog
+  twitter:
+    username: "@serloro"
+    card: "summary_large_image"
+
+# ----------------------------------------
+# Datos extra para _data/*.yml
+# ----------------------------------------
+social_links:
+  - name: GitHub
+    url: https://github.com/serloro
+  - name: Twitter
+    url: https://twitter.com/serloro
+
+# ----------------------------------------
+# Markdown
+# ----------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
