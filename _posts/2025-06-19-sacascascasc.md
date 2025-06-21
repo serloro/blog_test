@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Titulo x"
 date: 2025-06-19
 ---
