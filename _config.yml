@@ -18,7 +18,7 @@ author:
 # ========================================
 # CONFIGURACION DE JEKYLL
 # ========================================
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 permalink: /:categories/:year/:month/:day/:title/
 
 # ========================================
@@ -38,6 +38,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-assets
+  - jekyll-archives
+  - jekyll-toc
+  - jekyll-analytics
 
 # ========================================
 # CONFIGURACION DE MARKDOWN
