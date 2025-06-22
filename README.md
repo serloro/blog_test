@@ -28,7 +28,7 @@ GitBlog simplifica el proceso de creacion y mantenimiento de blogs tecnicos, per
 
 ## Enlaces utiles
 
-- **Sitio web:** [Ver blog en vivo](https://serloro.github.io)
+- **Sitio web:** [Ver blog en vivo](https://serloro.github.io/blog_test)
 - **Repositorio:** [GitHub](https://github.com/serloro/blog_test)
 - **Herramienta:** [GitBlog en Bolt.new](https://bolt.new)
 
