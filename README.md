@@ -16,7 +16,7 @@ Este blog ha sido desarrollado utilizando [**GitBlog**](https://bolt.new), una h
 **Caracteristicas principales:**
 - Editor movil y web intuitivo
 - Sincronizacion automatica con GitHub
-- Multiples temas de Jekyll
+- Multiples estilos CSS personalizables
 - Editor Markdown con vista previa
 - Sistema de etiquetas
 - Publicacion automatica en GitHub Pages
