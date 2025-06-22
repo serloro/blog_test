@@ -4,7 +4,7 @@
 title: "Mi Blog"
 description: "Un blog sobre desarrollo web software y tecnologa"
 url: "https://serloro.github.io"
-baseurl: ""
+baseurl: "/blog_test"
 
 # ========================================
 # INFORMACION DEL AUTOR
