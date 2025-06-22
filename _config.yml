@@ -144,7 +144,7 @@ social_links:
 highlighter: rouge
 
 # Configuracion de posts
-future: false
+future: true
 unpublished: false
 
 # IMPORTANTE: Asegurar que los posts se procesen correctamente
